@@ -53,7 +53,13 @@
         <img 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>    
+    </a>
+<a href="https://velog.io/@ekgml3765">
+ <img 
+      src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ekgml3765"
+      style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</a>
+  
 </div>
 </div>
 
