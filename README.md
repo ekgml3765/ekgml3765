@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?section=header&color=FFE08C&height=250&type=waving&text=Dahui%20Hwang&fontAlignY=40&descAlignY=90)
+![header](https://capsule-render.vercel.app/api?section=header&color=FFE08C&height=200&type=waving&text=Dahui%20Hwang&fontAlignY=40&descAlignY=90)
 
 <div align=center>
 
