@@ -9,3 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekgml3765&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={ekgml3765})](https://solved.ac/{ekgml3765})
