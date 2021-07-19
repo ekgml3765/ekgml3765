@@ -20,7 +20,7 @@
 <br>
 </hr>
 
-## 👩🏻‍💻 Tech Stack 
+## 👨‍💻 Tech Stack 
 Techs that I've used at least once
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -56,4 +56,4 @@ Techs that I've used at least once
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekgml3765%2Fhit-counter&count_bg=%2362665E&title_bg=%23D772D1&icon=pocket.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=FFE08C&height=150&type=waving)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=FFE08C&height=100&type=waving)
