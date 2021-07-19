@@ -48,19 +48,12 @@
 <br>
 
 ## 🙋🏻‍♀️ Me
-<div align="center">
-    <a href="mailto:ekgml3765@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-<a href="https://velog.io/@ekgml3765">
- <img 
-      src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ekgml3765"
-      style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+<a href="mailto:ekgml3765@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ekgml3765@gmail.com"/>
 </a>
-  
-</div>
+<a href="https://velog.io/@ekgml3765">
+ <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ekgml3765"/>
+</a>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=FFE08C&height=100&type=waving)
