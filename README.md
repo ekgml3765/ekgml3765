@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?section=header&color=FFE08C&height=200&type=waving&text=Dahui%20Hwang&fontAlignY=40&descAlignY=90)
 
 <div align=center>
-
+	
 ##  👋 Hi there, I'm Dahui Hwang
 * 👩🏻‍💼   Junior Web backend developer
 * 💻   usually using Java language for programmming
@@ -47,7 +47,7 @@
 <br>
 <br>
 
-## 🙋🏻‍♀️ Contact me
+## 🙋🏻‍♀️ Me
 <div align="center">
     <a href="mailto:ekgml3765@gmail.com">
         <img 
