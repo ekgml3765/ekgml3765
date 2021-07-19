@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?color=FFE08C&height=270&type=waving&text=Dahui%20Hwang&fontAlignY=50&descAlignY=90&rotate=0&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?section=header&color=FFE08C&height=270&type=waving&text=Dahui%20Hwang&fontAlignY=50&descAlignY=90)
 
- <div align=center> </div>
-  
+
+
+<div align=center>
+
 ### Hi there 👋 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekgml3765%2Fhit-counter&count_bg=%2362665E&title_bg=%23D772D1&icon=pocket.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
