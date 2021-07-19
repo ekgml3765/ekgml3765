@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=HwangDaHui&fontAlignY=20&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?color=FFE08C&height=300&type=waving&text=Hwang%20Dahui&fontAlignY=50&descAlignY=90&rotate=0&animation=fadeIn)
 
 
 ### Hi there 👋
