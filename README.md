@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?section=header&color=FFE08C&height=200&type=waving&text=Dahui%20Hwang&fontAlignY=40&descAlignY=90)
-
 <!-- 무단 복사 금지합니다! 복붙하지 마세요.-->
 
 <div align=center>
