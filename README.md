@@ -8,9 +8,6 @@
 * 🎫  Samsung Software Academy For Youth (SSAFY 4th)  
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekgml3765&show_icons=true&theme=radical)	
-<br>
-<br>
 
 ## 📃 My Resume
 <p>
@@ -47,10 +44,6 @@
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekgml3765&layout=compact&theme=radical)](https://github.com/ekgml3765)
-<br>
-<br>
-
 ## 🙋🏻‍♀️ Me
 <a href="mailto:ekgml3765@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ekgml3765@gmail.com"/>
@@ -58,4 +51,9 @@
 <a href="https://velog.io/@ekgml3765">
  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ekgml3765"/>
 </a>
+
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekgml3765&show_icons=true&theme=radical)	
 </div>
