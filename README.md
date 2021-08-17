@@ -44,8 +44,8 @@
 <a href="mailto:ekgml3765@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ekgml3765@gmail.com"/>
 </a>
-<a href="https://velog.io/@ekgml3765">
- <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ekgml3765"/>
+<a href="https://ilmiodiario.tistory.com/">
+ <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://ilmiodiario.tistory.com/"/>
 </a>
 
 <br>
