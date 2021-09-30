@@ -7,13 +7,16 @@
 * 💻   usually using Java language for programmming
 * 🎫  Samsung Software Academy For Youth (SSAFY 4th)  
 
+<!--
 <br>
 <h2>
     <a href="https://moored-ruby-569.notion.site/a8b28e52850e4c54b08958ade7094bf7" style="color: black; text-decoration: none;"> 
 	View Resume!
     </a>
  </h2>
+-->
 <br>
+
 
 ## 💻 Tech Stack 
 ✏ Techs that I've used at least once
