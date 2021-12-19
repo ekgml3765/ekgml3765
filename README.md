@@ -5,7 +5,8 @@
 ##  👋 Hi there, I'm Dahui Hwang
 * 👩🏻‍💼   Junior backend developer
 * 💻   usually using Java language for programmming
-* 🎫  Samsung Software Academy For Youth (SSAFY 4th)  
+* 🎫  Samsung Software Academy For Youth (SSAFY 4th)
+* 🎫  KT AIVLE SCHOOL AI Track (1th) ~ing  
 
 <!--
 <br>
