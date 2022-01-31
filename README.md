@@ -6,7 +6,7 @@
 * 👩🏻‍💼   Junior backend developer
 * 💻   usually using Java language for programmming
 * 🎫  Samsung Software Academy For Youth (SSAFY 4th)
-* 🎫  KT AIVLE SCHOOL ~ing (AI Track 1th)
+
 
 <!--
 <br>
