@@ -6,6 +6,7 @@
 * 👩🏻‍💼   Junior backend developer
 * 💻   usually using Java language for programmming
 * 🎫  Samsung Software Academy For Youth (SSAFY 4th)
+* 🎫  Hyundai Mobis Software Academy (1th)
 
 
 <!--
